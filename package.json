@@ -1,0 +1,26 @@
+{
+  "name": "2333776-lab-six",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aioniaeftychia/2333776-lab-six.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aioniaeftychia/2333776-lab-six/issues"
+  },
+  "homepage": "https://github.com/aioniaeftychia/2333776-lab-six#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^0.2.1"
+  }
+}
